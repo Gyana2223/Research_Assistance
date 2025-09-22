@@ -1,0 +1,10 @@
+ipykernel
+streamlit
+langchain
+langchain-chroma
+langchain-community
+langchain-groq
+langchain-huggingface
+dotenv
+sentence-transformers
+pypdf
